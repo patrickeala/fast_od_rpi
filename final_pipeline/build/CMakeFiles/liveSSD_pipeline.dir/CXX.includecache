@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/pi/Documents/EEE190/camera_pipeline/final_pipeline/liveSSD_pipeline.cpp
+/home/pi/Documents/EEE190/fast_od_rpi/final_pipeline/liveSSD_pipeline.cpp
 ctime
 -
 iostream
@@ -14,6 +14,8 @@ iostream
 raspicam/raspicam_cv.h
 -
 opencv2/imgproc.hpp
+-
+opencv2/core/matx.hpp
 -
 
 /opt/opencv-4.1.0/include/opencv4/opencv2/calib3d.hpp

@@ -1,4 +1,4 @@
-# Install script for directory: /home/pi/Documents/EEE190/camera_pipeline/final_pipeline
+# Install script for directory: /home/pi/Documents/EEE190/fast_od_rpi/final_pipeline
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/pi/Documents/EEE190/camera_pipeline/final_pipeline/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/pi/Documents/EEE190/fast_od_rpi/final_pipeline/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
