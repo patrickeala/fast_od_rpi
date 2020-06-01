@@ -1,5 +1,5 @@
-#ifndef DECODE_DECTECTIONS_HPP__
-#define DECODE_DECTECTIONS_HPP__ 
+#ifndef DECODE_DETECTIONS_HPP__
+#define DECODE_DETECTIONS_HPP__ 
 
 #include <vector>
 #include <Eigen/Dense>
